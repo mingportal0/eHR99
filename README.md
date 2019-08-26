@@ -23,7 +23,12 @@
 
 ---
 ***
+### 이미지와 링크
 [HR](https://cafe.naver.com/kndjang)
 ![Working dog](https://github.com/mingportal0/eHR99/blob/master/working_dog.PNG)
 
-
+### 표만들기
+| 과일 | 자동차 | 게임 |
+| :---- | :----: | ----: |
+| 사과 | BMW | 와우 |
+| 딸기 | AUDI | POE |
