@@ -32,3 +32,11 @@
 | :---- | :----: | ----: |
 | 사과 | BMW | 와우 |
 | 딸기 | AUDI | POE |
+
+### 코드 작성
+```
+public class JavaClass{
+  public int num = 1;
+}
+```
+
